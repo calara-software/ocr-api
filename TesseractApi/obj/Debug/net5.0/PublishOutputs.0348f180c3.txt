@@ -1,0 +1,17 @@
+D:\DevProjects\Projeto Win Service\teressact\.NetApi\TesseractApi\bin\Debug\net5.0\publish\TesseractApi.exe
+D:\DevProjects\Projeto Win Service\teressact\.NetApi\TesseractApi\bin\Debug\net5.0\publish\appsettings.Development.json
+D:\DevProjects\Projeto Win Service\teressact\.NetApi\TesseractApi\bin\Debug\net5.0\publish\appsettings.json
+D:\DevProjects\Projeto Win Service\teressact\.NetApi\TesseractApi\bin\Debug\net5.0\publish\tessdata\eng.traineddata
+D:\DevProjects\Projeto Win Service\teressact\.NetApi\TesseractApi\bin\Debug\net5.0\publish\x86\leptonica-1.80.0.dll
+D:\DevProjects\Projeto Win Service\teressact\.NetApi\TesseractApi\bin\Debug\net5.0\publish\x86\tesseract41.dll
+D:\DevProjects\Projeto Win Service\teressact\.NetApi\TesseractApi\bin\Debug\net5.0\publish\x64\leptonica-1.80.0.dll
+D:\DevProjects\Projeto Win Service\teressact\.NetApi\TesseractApi\bin\Debug\net5.0\publish\x64\tesseract41.dll
+D:\DevProjects\Projeto Win Service\teressact\.NetApi\TesseractApi\bin\Debug\net5.0\publish\TesseractApi.dll
+D:\DevProjects\Projeto Win Service\teressact\.NetApi\TesseractApi\bin\Debug\net5.0\publish\TesseractApi.deps.json
+D:\DevProjects\Projeto Win Service\teressact\.NetApi\TesseractApi\bin\Debug\net5.0\publish\TesseractApi.runtimeconfig.json
+D:\DevProjects\Projeto Win Service\teressact\.NetApi\TesseractApi\bin\Debug\net5.0\publish\TesseractApi.pdb
+D:\DevProjects\Projeto Win Service\teressact\.NetApi\TesseractApi\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+D:\DevProjects\Projeto Win Service\teressact\.NetApi\TesseractApi\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\DevProjects\Projeto Win Service\teressact\.NetApi\TesseractApi\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DevProjects\Projeto Win Service\teressact\.NetApi\TesseractApi\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DevProjects\Projeto Win Service\teressact\.NetApi\TesseractApi\bin\Debug\net5.0\publish\Tesseract.dll

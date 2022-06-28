@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "XA0QkjGSUCJKXRN8Y4+pRGrNQLRw/Fgd8Fm118pdUPGbpWZJRWGvFfQjLGTM8WEWpY3lD2p3zJsy5X6uck1oFA==",
+  "success": true,
+  "projectFilePath": "D:\\DevProjects\\Projeto Win Service\\teressact\\.NetApi\\TesseractApi\\TesseractApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago Caldas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Thiago Caldas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Thiago Caldas\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Thiago Caldas\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Thiago Caldas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Thiago Caldas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\Thiago Caldas\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\Thiago Caldas\\.nuget\\packages\\tesseract\\4.1.1\\tesseract.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
